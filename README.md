@@ -12,3 +12,4 @@ npm run dev
 ```bash
 npm run build
 ```
+docs/.vuepress/dist 文件夹为打包后的文件，可放至服务器

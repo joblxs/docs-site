@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a0206fcd3703a0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd6bd0e80a1b47be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3d910d84222d6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00.目录页/01.程序语言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eff448c4ae537dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "58bae4b5e1154f37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3247cc7cbcdf9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79ed6e17299e5085",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5545f47744f81591",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c4d2e35964547c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "72edc8682ab72e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29bedc9524b374e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00.目录页/01.程序语言.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e9a316c50cf86d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00.目录页/01.程序语言.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd5fbbc157388d00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd981fa3ff853bd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00.目录页/01.程序语言.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "vscode-editor:新建代码文件": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c3d910d84222d6c8",
+  "lastOpenFiles": [
+    "_posts/2024/04/14-博客主题（三）.md",
+    "_posts/2024/04/18-使用hexo主题Webstack打造个人网址导航.md",
+    "_posts/2024/04/个人网址导航搭建.md",
+    "static/annex/Pasted image 20240418212619.png",
+    "_posts/2024/04/14-博客搭建（一）.md",
+    "_posts/2024/04/14-博客配置（二）.md",
+    "_posts/2024/04/15-基础语法和外挂标签（五）.md",
+    "_posts/2024/04/16-vsCode安装和基本配置.md",
+    "_posts/2024/04/16-phpstudy安装.md",
+    "_posts/2024/04/16-nvm下载安装及node版本管理.md",
+    "_posts/2024/04/16-本地安装和配置git.md",
+    "_posts/2024/04/16-本地上传项目至GitHub.md",
+    "_posts/2024/04/16-1panel运行nodeJs项目.md",
+    "static/annex/Pasted image 20240414192036.png",
+    "static/annex/Pasted image 20240414191729.png",
+    "static/annex/Pasted image 20240414185728.png",
+    "static/annex/Pasted image 20240414172726.png",
+    "_posts/2024/04/16-云服务器安装git并搭建网站.md",
+    "static/annex/Pasted image 20240414172026.png",
+    "static/annex/Pasted image 20240414163239.png",
+    "static/annex/Pasted image 20240414163239.png.md",
+    "static/annex/Pasted image 20240414142354.png",
+    "static/annex/Pasted image 20240414141903.png",
+    "static/annex/Pasted image 20240414141338.png",
+    "_posts/2024/04/16-阿里云安装1panel.md",
+    "site/time/index.md",
+    "_posts/2024/04/16-免费知乎盐选分享.md",
+    "_posts/2024/04/16-虚拟机安装Windows7.md",
+    "_posts/2024/04/16-虚拟机安装ubuntu20-04.md",
+    "_posts/2024/04/16-虚拟机安装macOS13-20.md",
+    "_posts/2024/04/16-1panel搭建静态网站.md",
+    "_posts/2024/04/16-1oanel搭建静态网站.md",
+    "_posts/2024/04/16-云服务器安装git.md",
+    "_posts/2022-08-09-Markdown语法与外挂标签写法汇总.md",
+    "_posts/2024/04/15-基础语法和外挂标签（四）.md",
+    "_posts/2024/04/15-主题魔改（五）.md",
+    "static/css/runtime.css",
+    "static/js/runtime.js",
+    "static/js",
+    "static/css/custom.css",
+    "static/css"
+  ]
+}

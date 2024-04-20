@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "static/img,static/css,static/js,static/assets",
+  "ribbonIcon": true,
+  "excludeSubfolders": false
+}
