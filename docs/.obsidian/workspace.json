@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6bd0e80a1b47be",
+        "id": "fc90c293e13a6915",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d910d84222d6c8",
+            "id": "e23154cf4a70ab90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.目录页/01.程序语言.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.目录页/01.程序语言.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.目录页/01.程序语言.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.目录页/01.程序语言.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,8 +149,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3d910d84222d6c8",
+  "active": "e23154cf4a70ab90",
   "lastOpenFiles": [
+    "01.基础命令/01.git/1.git基础命令.md",
+    "00.目录页/01.基础命令.md",
+    "01.基础命令/01.git/1.git命令.md",
+    "01.基础命令/01.git/git命令.md",
+    "01.基本命令/00.git/git命令.md",
+    "01.基本命令/00.git",
+    "01.基本命令/新建文件夹",
+    "01.基本命令",
+    "新建文件夹",
+    "00.目录页/01.程序语言.md",
     "_posts/2024/04/14-博客主题（三）.md",
     "_posts/2024/04/18-使用hexo主题Webstack打造个人网址导航.md",
     "_posts/2024/04/个人网址导航搭建.md",
@@ -180,13 +190,6 @@
     "_posts/2024/04/16-免费知乎盐选分享.md",
     "_posts/2024/04/16-虚拟机安装Windows7.md",
     "_posts/2024/04/16-虚拟机安装ubuntu20-04.md",
-    "_posts/2024/04/16-虚拟机安装macOS13-20.md",
-    "_posts/2024/04/16-1panel搭建静态网站.md",
-    "_posts/2024/04/16-1oanel搭建静态网站.md",
-    "_posts/2024/04/16-云服务器安装git.md",
-    "_posts/2022-08-09-Markdown语法与外挂标签写法汇总.md",
-    "_posts/2024/04/15-基础语法和外挂标签（四）.md",
-    "_posts/2024/04/15-主题魔改（五）.md",
     "static/css/runtime.css",
     "static/js/runtime.js",
     "static/js",
